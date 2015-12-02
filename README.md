@@ -1,6 +1,6 @@
 # FrametekLight
 
-[![Codeship Status](https://codeship.io/projects/5209eb70-ec71-0132-7ff9-3ab4798fa513/status?branch=develop)](https://codeship.com/projects/83752)
+[![Codeship Status](https://codeship.io/projects/93afd210-7b6e-0133-b690-4a776d6c0402/status?branch=master)](https://codeship.com/projects/119572)
 [![Build Status](https://travis-ci.org/tekreme73/FrametekLight.svg?branch=master)](https://travis-ci.org/tekreme73/FrametekLight)
 
 [![Latest Stable Version](https://poser.pugx.org/tekreme73/frameteklight/v/stable)](https://packagist.org/packages/tekreme73/frameteklight)
