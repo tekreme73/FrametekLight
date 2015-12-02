@@ -1,0 +1,26 @@
+{
+	"name": "tekreme73/frametek-light",
+	"type": "library",
+	"description": "FrametekLight is a ligther version of Frametek framework.",
+	"keywords": ["framework","api","light"],
+	"homepage": "https://github.com/tekreme73/FrametekLight",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Rémi Rebillard",
+			"email": "tekreme73@gmail.com",
+			"homepage": "https://github.com/tekreme73"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"FrametekLight\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "*"
+	}
+}
